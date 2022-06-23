@@ -10,4 +10,4 @@
 
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
-![preview img](/preview.png)
+![preview img](https://github.com/iatharva/OIBSIP-Internship/blob/main/Oasis%20Infobyte%20Internship/Level%201/TASK%202%20-%20Portfolio/preview.png)
